@@ -141,3 +141,6 @@ pnpm test
 
 由 [RitMEX](https://ritmex.one) 开发并免费分享。
 
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
